@@ -21,7 +21,7 @@ install_reqs = parse_requirements(str(this_dir / 'requirements.txt'))
 
 setuptools.setup(
     name="endpoint-api-client",
-    version="0.0.1",
+    version="0.0.2",
     author="Artem Shakurov",
     author_email="galavasteg@gmail.com",
     description="This module implements API-client to storage-endpoint",
