@@ -16,3 +16,8 @@ output
 
 # credantials
 .pypirc
+
+# setup.py
+dist
+*.egg-info
+build

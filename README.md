@@ -1,4 +1,4 @@
-# api_client
+# endpoint-api-client
 
 All commands have to be run in project root directory:
 
