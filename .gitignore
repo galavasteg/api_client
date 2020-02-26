@@ -1,0 +1,18 @@
+# PyCharm
+.idea
+__pycache__
+
+# PipEnv files, local environment variables
+Pipfile*
+
+# experiments
+experiments
+
+# default output
+output
+
+# dotenv
+*.env
+
+# credantials
+.pypirc
