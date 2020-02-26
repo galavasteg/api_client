@@ -6,7 +6,7 @@ cd banks_storage/
 
 ## Installation
 
-pip install api_client
+pip install endpoint-api-client
 
 
 ## Usage

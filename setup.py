@@ -18,10 +18,9 @@ with open("README.md", "r") as f:
     readme = f.read()
 
 install_reqs = parse_requirements(str(this_dir / 'requirements.txt'))
-print(install_reqs)
 
 setuptools.setup(
-    name="banki_ru_storage",
+    name="endpoint-api-client",
     version="0.0.1",
     author="Artem Shakurov",
     author_email="galavasteg@gmail.com",
